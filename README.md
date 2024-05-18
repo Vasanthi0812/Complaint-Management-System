@@ -33,3 +33,8 @@ Complaint History
 Profile Management
 Change Password
 Dashboard
+
+
+### Credential for admin panel : Username: admin, Password: Test@123
+
+### Credential for user panel : Username: grmat@test.com ,Password: Test@123
