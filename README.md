@@ -3,10 +3,15 @@
 Complaint Management System is a management technique for assessing, analyzing and responding to customer complaints. Complaints management software is used to record resolve and respond to customer complaints, requests as well as facilitate any other feedback.
 
 Project Name: Complaint Management System
+
 Language Used:	PHP5.6, PHP7.x
+
 Database: MySQL 5.x
+
 User Interface Design:	HTML, AJAX,JQUERY,JAVASCRIPT
+
 Web Browser:	Mozilla, Google Chrome, IE8, OPERA
+
 Software:	XAMPP / Wamp / Mamp/ Lamp (anyone)
 
 Modules of Complaint Management System
